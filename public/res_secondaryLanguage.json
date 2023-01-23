@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Hi!",
+      "description": "I am passionate about challenges, technology, travel and personal development. I believe that anything is possible with dedication and resilience. I've worked with Javascript, Typescript and NodeJS, programming websites and APIs. Always writing clean and optimized code, seeking to achieve the highest level of performance on any type of device.",
       "section_name": {
         "about": "O mnie",
         "projects": "Projekty",
