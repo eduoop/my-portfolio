@@ -54,7 +54,7 @@
         "images/portfolio/memory/picone.png",
         "images/portfolio/memory/pictwo.png"
       ],
-      "url": "https://eduoop.github.io/Jogo-da-memoria/",
+      "url": "https://eduoop.github.io/memory-game/",
       "technologies": [
         {
           "class": "devicon-typescript-plain",
@@ -71,7 +71,7 @@
     {
       "company": "Clicksoft",
       "title": "Front-End Developer",
-      "years": "06.2022 - present",
+      "years": "06.2022 - atual",
       "mainTech": [
         "ReactJS"
       ],

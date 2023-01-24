@@ -1,70 +1,88 @@
 {
-    "basic_info": {
-      "description_header": "Hi!",
-      "description": "I am passionate about challenges, technology, travel and personal development. I believe that anything is possible with dedication and resilience. I've worked with Javascript, Typescript and NodeJS, programming websites and APIs. Always writing clean and optimized code, seeking to achieve the highest level of performance on any type of device.",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi!",
+    "description": "I am passionate about challenges, technology, travel and personal development. I believe that anything is possible with dedication and resilience. I've worked with Javascript, Typescript and NodeJS, programming websites and APIs. Always writing clean and optimized code, seeking to achieve the highest level of performance on any type of device.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Pokedex",
+      "startDate": "2023",
+      "description": "It's a high-tech portable virtual encyclopedia that Pokémon trainers carry around to record all the different species of Pokémon they encounter during their journey as trainers.",
+      "images": [
+        "images/portfolio/pokedex/pokedex_one.png",
+        "images/portfolio/pokedex/pokedex_two.png"
+      ],
+      "url": "https://eduoop.github.io/pokedex/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Pokedex",
-        "startDate": "2023",
-        "description": "It's a high-tech portable virtual encyclopedia that Pokémon trainers carry around to record all the different species of Pokémon they encounter during their journey as trainers.",
-        "images": [
-          "images/portfolio/pokedex/pokedex_one.png",
-          "images/portfolio/pokedex/pokedex_two.png"
-        ],
-        "url": "https://eduoop.github.io/pokedex/",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Movies-list",
-        "startDate": "2022",
-        "description": "Search and view information for the latest releases such as 'Budget', 'Profit', 'Grade' and more",
-        "images": [
-          "images/portfolio/movies/picone.png",
-          "images/portfolio/movies/pictwo.png"
-        ],
-        "url": "https://movies-list-2w0x19939-dudugoiabal2-gmailcom.vercel.app/",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          }
-        ]
-      },
-      {
-        "title": "Memory game",
-        "startDate": "2022",
-        "description": "Classic game made up of pieces that have a figure on one side. It was created in China in the 15th century and consisted of a deck of illustrated and duplicate cards. Each figure is repeated in two different pieces.",
-        "images": [
-          "images/portfolio/memory/picone.png",
-          "images/portfolio/memory/pictwo.png"
-        ],
-        "url": "https://eduoop.github.io/Jogo-da-memoria/",
-        "technologies": [
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Movies-list",
+      "startDate": "2022",
+      "description": "Search and view information for the latest releases such as 'Budget', 'Profit', 'Grade' and more",
+      "images": [
+        "images/portfolio/movies/picone.png",
+        "images/portfolio/movies/pictwo.png"
+      ],
+      "url": "https://movies-list-2w0x19939-dudugoiabal2-gmailcom.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        }
+      ]
+    },
+    {
+      "title": "Memory game",
+      "startDate": "2022",
+      "description": "Classic game made up of pieces that have a figure on one side. It was created in China in the 15th century and consisted of a deck of illustrated and duplicate cards. Each figure is repeated in two different pieces.",
+      "images": [
+        "images/portfolio/memory/picone.png",
+        "images/portfolio/memory/pictwo.png"
+      ],
+      "url": "https://eduoop.github.io/memory-game/",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Clicksoft",
+      "title": "Front-End Developer",
+      "years": "06.2022 - present",
+      "mainTech": [
+        "ReactJS"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Typescript",
+        "Styled-components",
+        "Git",
+        "Bitbucket"
+      ]
+    }
+  ]
+}
