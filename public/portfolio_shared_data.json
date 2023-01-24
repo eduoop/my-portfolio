@@ -5,13 +5,18 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/eduoop",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "telegram",
+          "url": "https://t.me/EduardoDevevoper",
+          "class": "fab fa-telegram"
+        },
+        {
+          "name": "whatsapp",
+          "url": "https://api.whatsapp.com/send?phone=31982623783",
+          "class": "fab fa-whatsapp"
         }
       ],
       "image": "myProfile.jpg"
@@ -29,8 +34,8 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "React",
+          "class": "devicon-react-plain",
           "level": "80"
         },
         {
@@ -44,19 +49,14 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
           "level": "75"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "name": "AdonisJS",
+          "class": "devicon-adonisjs-plain",
           "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
         },
         {
           "name": "MySql",

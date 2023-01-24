@@ -2,52 +2,24 @@
   "basic_info": {
     "description_header": "Opa",
     "description": "Sou apaixonado por desafios, tecnologia, viagens e desenvolvimento pessoal. Acredito que tudo é possível com dedicação e resiliência. Já trabalhei com Javascript, Typescript e NodeJS, programando sites e APIs. Sempre escrevendo código limpo e otimizado, buscando atingir o mais elevado nível de performace em quaisquer tipos de dispositivos.",
-"section_name": {
-      "about": "About me",
-      "projects": "Projects",
-      "skills": "Skills",
-      "experience": "Experience"
+    "section_name": {
+      "about": "Sobre mim",
+      "projects": "Projetos",
+      "skills": "Habilidades",
+      "experience": "Experiência"
     }
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Pokedex",
+      "startDate": "2023",
+      "description": "É uma enciclopédia virtual portátil de alta tecnologia que os treinadores Pokémon transportam para registra todas as espécies diferentes de Pokémon que são encontradas durante a sua viagem como treinadores.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/pokedex/pokedex_one.png",
+        "images/portfolio/pokedex/pokedex_two.png"
       ],
-      "url": "",
+      "url": "https://eduoop.github.io/pokedex/",
       "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
-    },
-    {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-      "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
@@ -55,63 +27,61 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "Movies-list",
+      "startDate": "2022",
+      "description": "Busque e veja informações dos lançamentos mais recentes, como 'Orçamento', 'Lucro', 'Nota' e muito mais",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/movies/picone.png",
+        "images/portfolio/movies/pictwo.png"
       ],
-      "url": "https://github.com",
+      "url": "https://movies-list-2w0x19939-dudugoiabal2-gmailcom.vercel.app/",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
+          "class": "devicon-react-plain",
           "name": "Angular"
         },
         {
           "class": "devicon-typescript-plain",
           "name": "TypeScript"
+        }
+      ]
+    },
+    {
+      "title": "Jogo da memória",
+      "startDate": "2022",
+      "description": "Clássico jogo formado por peças que apresentam uma figura em um dos lados. Foi criado na China no século 15 e era formado por baralho de cartas ilustradas e duplicadas. Cada figura se repete em duas peças diferentes.",
+      "images": [
+        "images/portfolio/memory/picone.png",
+        "images/portfolio/memory/pictwo.png"
+      ],
+      "url": "https://eduoop.github.io/Jogo-da-memoria/",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         }
       ]
     }
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
+      "company": "Clicksoft",
       "title": "Front-End Developer",
-      "years": "10.2019 - present",
+      "years": "06.2022 - present",
       "mainTech": [
-        "Angular 8/9/10"
+        "ReactJS"
       ],
       "technologies": [
         "REST API",
-        "RxJS",
         "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
-      ]
-    },
-    {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": [
-        "Angular 7/8"
-      ],
-      "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "Typescript",
+        "Styled-components",
+        "Git",
+        "Bitbucket"
       ]
     }
   ]
