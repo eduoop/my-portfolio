@@ -27,14 +27,14 @@
       ]
     },
     {
-      "title": "Movies-list",
-      "startDate": "2022",
-      "description": "Busque e veja informações dos lançamentos mais recentes, como 'Orçamento', 'Lucro', 'Nota' e muito mais",
+      "title": "Rick end Morty discover",
+      "startDate": "2023",
+      "description": "Busque e veja informações de personagens, episódios e localizações",
       "images": [
-        "images/portfolio/movies/picone.png",
-        "images/portfolio/movies/pictwo.png"
+        "images/portfolio/rm/imgw.png",
+        "images/portfolio/rm/imgs.png"
       ],
-      "url": "https://movies-list-2w0x19939-dudugoiabal2-gmailcom.vercel.app/",
+      "url": "https://rickverse.vercel.app/",
       "technologies": [
         {
           "class": "devicon-react-plain",
