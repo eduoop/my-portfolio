@@ -27,14 +27,14 @@
       ]
     },
     {
-      "title": "Rick end Morty discover",
+      "title": "Personal Finances",
       "startDate": "2023",
-      "description": "Busque e veja informações de personagens, episódios e localizações",
+      "description": "Study and practice applications that obeyed to manage the expenses of a person or even a family group",
       "images": [
-        "images/portfolio/rm/imgw.png",
-        "images/portfolio/rm/imgs.png"
+        "images/portfolio/pf/imgw.png",
+        "images/portfolio/pf/imgs.png"
       ],
-      "url": "https://rickverse.vercel.app/",
+      "url": "https://react-my-finances.vercel.app/",
       "technologies": [
         {
           "class": "devicon-react-plain",
