@@ -70,7 +70,7 @@
   "experience": [
     {
       "company": "Clicksoft",
-      "title": "Front-End Developer",
+      "title": "Trainee Front-End Developer",
       "years": "06.2022 - present",
       "mainTech": [
         "ReactJS"
@@ -82,6 +82,25 @@
         "Styled-components",
         "Git",
         "Bitbucket"
+      ]
+    },
+    {
+      "company": "Clicksoft",
+      "title": "Junior Fullstack Developer",
+      "years": "03.2023 - atual",
+      "mainTech": [
+        "ReactJS",
+        "AdonisJS"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Typescript",
+        "Styled-components",
+        "Git",
+        "Bitbucket",
+        "PostgreSQL",
+        "NodeJS"
       ]
     }
   ]
