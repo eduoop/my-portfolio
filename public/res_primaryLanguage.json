@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Opa",
-    "description": "Busco uma posição desafiadora como desenvolvedor de software, onde possa aplicar minhas habilidades em programação e solução de problemas para ajudar a criar produtos inovadores e de alta qualidade. Meu objetivo é trabalhar em uma equipe colaborativa e dinâmica, onde possa continuar a aprender e crescer profissionalmente, enquanto contribuo para o sucesso da empresa.",
+    "description": "Me chamo Eduardo. Tenho 18 anos e busco uma posição desafiadora como desenvolvedor de software, onde possa aplicar minhas habilidades em programação e solução de problemas para ajudar a criar produtos inovadores e de alta qualidade. Meu objetivo é trabalhar em uma equipe colaborativa e dinâmica, onde possa continuar a aprender e crescer profissionalmente, enquanto contribuo para o sucesso da empresa.",
     "section_name": {
       "about": "Sobre mim",
       "projects": "Projetos",
@@ -11,18 +11,78 @@
   },
   "projects": [
     {
-      "title": "Pokedex",
+      "title": "Fitness Club",
       "startDate": "2023",
-      "description": "É uma enciclopédia virtual portátil de alta tecnologia que os treinadores Pokémon transportam para registra todas as espécies diferentes de Pokémon que são encontradas durante a sua viagem como treinadores.",
+      "description": "A nossa academia é uma das mais renomadas e completas do mercado. Oferecemos uma ampla variedade de aulas e atividades físicas, desde musculação e ginástica até esportes de equipe e artes marciais. Nossa equipe de instrutores é altamente qualificada e está sempre atualizada com as últimas tendências em fitness e bem-estar. Além disso, contamos com equipamentos de última geração e uma infraestrutura impecável, proporcionando um ambiente agradável e seguro para nossos alunos. Se você está em busca de uma academia de qualidade e comprometida com a sua saúde e condicionamento físico, venha conhecer a nossa academia.",
       "images": [
-        "images/portfolio/pokedex/pokedex_one.png",
-        "images/portfolio/pokedex/pokedex_two.png"
+        "images/portfolio/acade/acade_1.png",
+        "images/portfolio/acade/acade_2.png",
+        "images/portfolio/acade/acade_3.png"
       ],
-      "url": "https://eduoop.github.io/pokedex/",
+      "url": "https://gyn-site.vercel.app/",
       "technologies": [
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Facilis imóveis",
+      "startDate": "2023",
+      "description": "Bem-vindo ao site da nossa empresa de venda de imóveis! Fundada por um dos mais renomados empresários do setor imobiliário, temos um compromisso com a excelência em cada etapa da venda de imóveis. Nossa equipe é formada por profissionais altamente qualificados, que oferecem um atendimento personalizado e focado nas necessidades de cada cliente. Com uma ampla variedade de imóveis em nosso portfólio, incluindo casas, apartamentos, terrenos e imóveis comerciais, temos a solução perfeita para quem busca comprar ou vender um imóvel com confiança e segurança. Venha conhecer a nossa empresa e saiba como podemos ajudá-lo a realizar o seu sonho de ter um imóvel próprio.",
+      "images": [
+        "images/portfolio/faci/faci_1.png",
+        "images/portfolio/faci/faci_2.png",
+        "images/portfolio/faci/faci_3.png",
+        "images/portfolio/faci/faci_4.png"
+      ],
+      "url": "https://facilisimoveis.com.br/properties",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nextjs-original",
+          "name": "NextJS 13"
+        }
+      ]
+    },
+    {
+      "title": "Grilli",
+      "startDate": "2023",
+      "description": "Bem-vindo ao nosso site do restaurante fino, onde a culinária de alta qualidade e o serviço excepcional se encontram. Nós nos orgulhamos em oferecer uma experiência gastronômica única, com pratos cuidadosamente preparados pelos nossos chefs renomados. Nosso menu apresenta uma ampla seleção de pratos sofisticados, desde frutos do mar frescos e carnes suculentas até opções vegetarianas criativas e sobremesas decadentes. Todos os nossos ingredientes são escolhidos a dedo pelos nossos chefs e são provenientes dos fornecedores mais confiáveis e respeitados da região. Falando em chefs, estamos muito orgulhosos da nossa equipe culinária talentosa. Cada um dos nossos chefs traz consigo anos de experiência em cozinhas de todo o mundo, e juntos eles criam um menu que é verdadeiramente único. Eles trabalham duro para garantir que cada prato que sai da nossa cozinha seja um verdadeiro deleite para o paladar. Nosso serviço é igualmente excepcional, com uma equipe de garçons altamente treinados e experientes que estão sempre prontos para tornar sua visita uma experiência memorável. Nossa equipe de sommeliers também está à disposição para ajudá-lo a encontrar o vinho perfeito para complementar sua refeição. Se você está procurando um restaurante fino que oferece comida deliciosa, serviço excepcional e um ambiente sofisticado, não procure mais. Venha nos visitar e deixe-nos mostrar por que somos um dos melhores restaurantes finos da região.",
+      "images": [
+        "images/portfolio/rest/rest_1.png",
+        "images/portfolio/rest/rest_2.png",
+        "images/portfolio/rest/rest_3.png"
+      ],
+      "url": "https://grilli-tawny.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
         }
       ]
     },
@@ -43,26 +103,6 @@
         {
           "class": "devicon-typescript-plain",
           "name": "TypeScript"
-        }
-      ]
-    },
-    {
-      "title": "Jogo da memória",
-      "startDate": "2022",
-      "description": "Clássico jogo formado por peças que apresentam uma figura em um dos lados. Foi criado na China no século 15 e era formado por baralho de cartas ilustradas e duplicadas. Cada figura se repete em duas peças diferentes.",
-      "images": [
-        "images/portfolio/memory/picone.png",
-        "images/portfolio/memory/pictwo.png"
-      ],
-      "url": "https://eduoop.github.io/memory-game/",
-      "technologies": [
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
         }
       ]
     }

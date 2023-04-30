@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi!",
-    "description": "I'm looking for a challenging position as a software developer, where I can apply my programming and problem-solving skills to help create innovative, high-quality products. My goal is to work in a collaborative and dynamic team, where I continue to learn and grow professionally, while contributing to the success of the company.",
+    "description": "I call Edward. I'm 18 years old and looking forward to a position as a software developer where I can apply my programming and problem solving skills to help create innovative, high quality products. My goal is to work in a collaborative and dynamic team, where I continue to learn and grow professionally, while contributing to the success of the company.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -11,25 +11,85 @@
   },
   "projects": [
     {
-      "title": "Pokedex",
+      "title": "Fitness Club",
       "startDate": "2023",
-      "description": "It's a high-tech portable virtual encyclopedia that Pokémon trainers carry around to record all the different species of Pokémon they encounter during their journey as trainers.",
+      "description": "Our academy is one of the most renowned and complete on the market. We offer a wide range of fitness classes and activities, from weight training and gymnastics to team sports and martial arts. Our team of instructors is highly qualified and always up to date with the latest trends in fitness and wellness. In addition, we have state-of-the-art equipment and impeccable infrastructure, providing a pleasant and safe environment for our students. If you are looking for a quality gym committed to your health and physical conditioning, come and visit our gym.",
       "images": [
-        "images/portfolio/pokedex/pokedex_one.png",
-        "images/portfolio/pokedex/pokedex_two.png"
+        "images/portfolio/acade/acade_1.png",
+        "images/portfolio/acade/acade_2.png",
+        "images/portfolio/acade/acade_3.png"
       ],
-      "url": "https://eduoop.github.io/pokedex/",
+      "url": "https://gyn-site.vercel.app/",
       "technologies": [
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
         }
       ]
     },
     {
-      "title": "Personal Finances",
+      "title": "Facilis imóveis",
       "startDate": "2023",
-      "description": "Study and practice applications that obeyed to manage the expenses of a person or even a family group",
+      "description": "Welcome to the website of our real estate sales company! Founded by one of the most renowned entrepreneurs in the real estate sector, we are committed to excellence in every step of the property sale. Our team is made up of highly qualified professionals, who offer a personalized service focused on the needs of each client. With a wide variety of properties in our portfolio, including houses, apartments, land and commercial properties, we have the perfect solution for anyone looking to buy or sell a property with confidence and security. Come and meet our company and find out how we can help you realize your dream of owning your own property.",
+      "images": [
+        "images/portfolio/faci/faci_1.png",
+        "images/portfolio/faci/faci_2.png",
+        "images/portfolio/faci/faci_3.png",
+        "images/portfolio/faci/faci_4.png"
+      ],
+      "url": "https://facilisimoveis.com.br/properties",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nextjs-original",
+          "name": "NextJS 13"
+        }
+      ]
+    },
+    {
+      "title": "Grilli",
+      "startDate": "2023",
+      "description": "Welcome to our fine dining website, where high-quality cuisine and exceptional service meet. We pride ourselves on offering a unique dining experience, with dishes carefully prepared by our renowned chefs. Our menu features a wide selection of sophisticated dishes, from fresh seafood and succulent meats to creative vegetarian options and decadent desserts. All of our ingredients are handpicked by our chefs and sourced from the region's most trusted and respected suppliers. Speaking of chefs, we are very proud of our talented culinary team. Each of our chefs brings years of experience in cuisines around the world, and together they create a menu that is truly unique. They work hard to ensure that every dish that comes out of our kitchen is a real treat for the palate. Our service is equally exceptional, with a team of highly trained and experienced waiters who are always ready to make your visit a memorable experience. Our team of sommeliers are also on hand to help you find the perfect wine to complement your meal. If you're looking for a fine dining restaurant that offers delicious food, exceptional service and a sophisticated atmosphere, look no further. Come visit us and let us show you why we are one of the best fine dining restaurants in the area.",
+      "images": [
+        "images/portfolio/rest/rest_1.png",
+        "images/portfolio/rest/rest_2.png",
+        "images/portfolio/rest/rest_3.png"
+      ],
+      "url": "https://grilli-tawny.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Finanças pessoais",
+      "startDate": "2023",
+      "description": "Study and practice applications that contribute to the management of expenses for a person or even a family group.",
       "images": [
         "images/portfolio/pf/imgw.png",
         "images/portfolio/pf/imgs.png"
@@ -43,26 +103,6 @@
         {
           "class": "devicon-typescript-plain",
           "name": "TypeScript"
-        }
-      ]
-    },
-    {
-      "title": "Memory game",
-      "startDate": "2022",
-      "description": "Classic game made up of pieces that have a figure on one side. It was created in China in the 15th century and consisted of a deck of illustrated and duplicate cards. Each figure is repeated in two different pieces.",
-      "images": [
-        "images/portfolio/memory/picone.png",
-        "images/portfolio/memory/pictwo.png"
-      ],
-      "url": "https://eduoop.github.io/memory-game/",
-      "technologies": [
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
         }
       ]
     }
