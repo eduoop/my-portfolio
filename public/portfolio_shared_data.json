@@ -62,6 +62,16 @@
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "70"
+        },
+        {
+          "name": "TailwindCSS",
+          "class": "devicon-tailwindcss-plain",
+          "level": "80"
         }
       ]
     }
