@@ -1,78 +1,96 @@
 {
-    "basic_info": {
-      "name": "Eduardo Meneses",
-      "titles": [ "Front-end Developer", "Back-end Developer"],
-      "social": [
-        {
-          "name": "github",
-          "url": "https://github.com/eduoop",
-          "class": "fab fa-github"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/EduardoDevevoper",
-          "class": "fab fa-telegram"
-        },
-        {
-          "name": "whatsapp",
-          "url": "https://api.whatsapp.com/send?phone=31982623783",
-          "class": "fab fa-whatsapp"
-        }
-      ],
-      "image": "myProfile.jpg"
-    },
-    "skills": {
-      "icons": [
-        {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "React",
-          "class": "devicon-react-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "NodeJS",
-          "class": "devicon-nodejs-plain",
-          "level": "75"
-        },
-        {
-          "name": "AdonisJS",
-          "class": "devicon-adonisjs-plain",
-          "level": "85"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
-        },
-        {
-          "name": "PostgreSQL",
-          "class": "devicon-postgresql-plain",
-          "level": "70"
-        },
-        {
-          "name": "TailwindCSS",
-          "class": "devicon-tailwindcss-plain",
-          "level": "80"
-        }
-      ]
-    }
+  "basic_info": {
+    "name": "Eduardo Meneses",
+    "titles": [
+      "Front-end Developer",
+      "Back-end Developer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/eduoop",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/EduardoDevevoper",
+        "class": "fab fa-telegram"
+      },
+      {
+        "name": "whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=31982623783",
+        "class": "fab fa-whatsapp"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "TailwindCSS",
+        "class": "devicon-tailwindcss-plain",
+        "level": "80"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "80"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "NodeJS",
+        "class": "devicon-nodejs-plain",
+        "level": "75"
+      },
+      {
+        "name": "AdonisJS",
+        "class": "devicon-adonisjs-plain",
+        "level": "85"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql-plain",
+        "level": "70"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "60"
+      },
+      {
+        "name": "Github",
+        "class": "devicon-github-original",
+        "level": "80"
+      },
+      {
+        "name": "Bitbucket",
+        "class": "devicon-bitbucket-original",
+        "level": "80"
+      }
+    ]
   }
+}
