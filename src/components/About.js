@@ -24,13 +24,19 @@ class About extends Component {
       return age;
     }
 
+    function replaceNumbers(str, newNumber) {
+      const newString = str.replace(/\d+/g, newNumber);
+      return newString;
+    }
+
     if (this.props.sharedBasicInfo) {
       var profilepic = "images/" + this.props.sharedBasicInfo.image;
     }
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
       var hello = this.props.resumeBasicInfo.description_header;
-      var about = `Me chamo Eduardo. Tenho ${calculateAge(2004, 6)} anos e busco uma posição desafiadora como desenvolvedor de software, onde possa aplicar minhas habilidades em programação e solução de problemas para ajudar a criar produtos inovadores e de alta qualidade. Meu objetivo é trabalhar em uma equipe colaborativa e dinâmica, onde possa continuar a aprender e crescer profissionalmente, enquanto contribuo para o sucesso da empresa.`
+      const age = calculateAge(2004, 6)
+      var about = replaceNumbers(this.props.resumeBasicInfo.description, age)
     }
 
     return (
