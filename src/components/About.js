@@ -6,13 +6,31 @@ import typescripticon from "@iconify/icons-logos/typescript-icon";
 
 class About extends Component {
   render() {
+    function calculateAge(yearOfBirth, monthOfBirth) {
+      const currentDate = new Date();
+      const currentYear = currentDate.getFullYear();
+      const currentMonth = currentDate.getMonth() + 1; // Note that months are zero-indexed
+
+      let age = currentYear - yearOfBirth;
+
+      // Check if birthday hasn't occurred yet this year
+      if (
+        monthOfBirth > currentMonth ||
+        (monthOfBirth === currentMonth && currentDate.getDate() < 1)
+      ) {
+        age--;
+      }
+
+      return age;
+    }
+
     if (this.props.sharedBasicInfo) {
       var profilepic = "images/" + this.props.sharedBasicInfo.image;
     }
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
       var hello = this.props.resumeBasicInfo.description_header;
-      var about = this.props.resumeBasicInfo.description;
+      var about = `Me chamo Eduardo. Tenho ${calculateAge(2004, 6)} anos e busco uma posição desafiadora como desenvolvedor de software, onde possa aplicar minhas habilidades em programação e solução de problemas para ajudar a criar produtos inovadores e de alta qualidade. Meu objetivo é trabalhar em uma equipe colaborativa e dinâmica, onde possa continuar a aprender e crescer profissionalmente, enquanto contribuo para o sucesso da empresa.`
     }
 
     return (
