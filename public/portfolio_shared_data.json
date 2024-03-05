@@ -12,9 +12,9 @@
         "class": "fab fa-github"
       },
       {
-        "name": "telegram",
-        "url": "https://t.me/EduardoDevevoper",
-        "class": "fab fa-telegram"
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/eduardo-meneses-8277bb289/",
+        "class": "fab fa-linkedin"
       },
       {
         "name": "whatsapp",
@@ -22,7 +22,7 @@
         "class": "fab fa-whatsapp"
       }
     ],
-    "image": "myProfile.jpg"
+    "image": "myProfile.png"
   },
   "skills": {
     "icons": [
@@ -37,14 +37,9 @@
         "level": "95"
       },
       {
-        "name": "TailwindCSS",
-        "class": "devicon-tailwindcss-plain",
-        "level": "80"
-      },
-      {
-        "name": "React",
-        "class": "devicon-react-plain",
-        "level": "80"
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
       },
       {
         "name": "TypeScript",
@@ -52,13 +47,8 @@
         "level": "90"
       },
       {
-        "name": "JavaScript",
-        "class": "devicon-javascript-plain",
-        "level": "70"
-      },
-      {
-        "name": "Java",
-        "class": "devicon-java-plain",
+        "name": "TailwindCSS",
+        "class": "devicon-tailwindcss-plain",
         "level": "80"
       },
       {
@@ -67,9 +57,29 @@
         "level": "75"
       },
       {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "80"
+      },
+      {
+        "name": "NextJS",
+        "class": "devicon-nextjs-plain",
+        "level": "80"
+      },
+      {
+        "name": "Prisma",
+        "class": "devicon-prisma-plain",
+        "level": "80"
+      },
+      {
         "name": "AdonisJS",
         "class": "devicon-adonisjs-plain",
         "level": "85"
+      },
+      {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "80"
       },
       {
         "name": "MySql",

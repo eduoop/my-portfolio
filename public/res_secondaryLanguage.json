@@ -1,63 +1,84 @@
 {
   "basic_info": {
     "description_header": "Hi!",
-    "description": "I call Eduardo. I'm 18 years old and looking forward to a position as a software developer where I can apply my programming and problem solving skills to help create innovative, high quality products. My goal is to work in a collaborative and dynamic team, where I continue to learn and grow professionally, while contributing to the success of the company.",
+    "description": "My name is Eduardo Meneses, I'm 19 years old and my interest in programming has been an exciting journey for four years. I currently play the role of Fullstack Junior at Clicksoft, where I developed solid skills in languages ​​such as Javascript, Typescript and NodeJS, and in frameworks such as NodeJS, ReactJS and Next. With experience in resolving bugs, creating websites and APIs, my commitment to proactive problem solving is evident. I am constantly committed to learning and growing professionally. I seek a challenging opportunity as a software developer, eager to apply my skills in creating innovative, high-quality products while dynamically contributing to a collaborative team.",
     "section_name": {
       "about": "About me",
-      "projects": "Projects",
+      "projects": "Featured Projects",
       "skills": "Skills",
       "experience": "Experience"
     }
   },
   "projects": [
     {
-      "title": "Fitness Club",
-      "startDate": "2023",
-      "description": "Our academy is one of the most renowned and complete on the market. We offer a wide range of fitness classes and activities, from weight training and gymnastics to team sports and martial arts. Our team of instructors is highly qualified and always up to date with the latest trends in fitness and wellness. In addition, we have state-of-the-art equipment and impeccable infrastructure, providing a pleasant and safe environment for our students. If you are looking for a quality gym committed to your health and physical conditioning, come and visit our gym.",
+      "title": "Musfy",
+      "startDate": "2024",
+      "description": "Um site onde os usuários podem fazer uploads de músicas e escutar músicas upadas por outros usuários de forma simples e rápida.",
       "images": [
-        "images/portfolio/acade/acade_1.png",
-        "images/portfolio/acade/acade_2.png",
-        "images/portfolio/acade/acade_3.png"
+        "images/portfolio/musfy/musfy1.png",
+        "images/portfolio/musfy/musfy2.png",
+        "images/portfolio/musfy/musfy3.png",
+        "images/portfolio/musfy/musfy4.png"
       ],
-      "url": "https://gyn-site.vercel.app/",
+      "url": "https://musfy.vercel.app/",
       "technologies": [
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML5"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS3"
-        }
-      ]
-    },
-    {
-      "title": "Facilis imóveis",
-      "startDate": "2023",
-      "description": "Welcome to the website of our real estate sales company! Founded by one of the most renowned entrepreneurs in the real estate sector, we are committed to excellence in every step of the property sale. Our team is made up of highly qualified professionals, who offer a personalized service focused on the needs of each client. With a wide variety of properties in our portfolio, including houses, apartments, land and commercial properties, we have the perfect solution for anyone looking to buy or sell a property with confidence and security. Come and meet our company and find out how we can help you realize your dream of owning your own property.",
-      "images": [
-        "images/portfolio/faci/faci_1.png",
-        "images/portfolio/faci/faci_2.png",
-        "images/portfolio/faci/faci_3.png",
-        "images/portfolio/faci/faci_4.png"
-      ],
-      "url": "https://facilisimoveis.com.br/properties",
-      "technologies": [
-        {
-          "class": "devicon-react-plain",
-          "name": "React"
-        },
         {
           "class": "devicon-typescript-plain",
           "name": "TypeScript"
         },
         {
-          "class": "devicon-nextjs-original",
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nextjs-plain",
           "name": "NextJS 13"
+        },
+        {
+          "class": "devicon-prisma-original",
+          "name": "Prisma"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "Prisma"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS S3"
+        }
+      ]
+    },
+    {
+      "title": "Barber",
+      "startDate": "2024",
+      "description": "A platform to facilitate scheduling services in barbershops! Using cutting-edge technologies, I built an efficient and modern experience for users who want to schedule haircuts and personal care.",
+      "images": [
+        "images/portfolio/barber/barber1.png",
+        "images/portfolio/barber/barber2.png",
+        "images/portfolio/barber/barber3.png",
+        "images/portfolio/barber/barber4.png"
+      ],
+      "url": "https://barbershop-bookings.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "NextJS 13"
+        },
+        {
+          "class": "devicon-prisma-original",
+          "name": "Prisma"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "Prisma"
         }
       ]
     },
@@ -87,14 +108,66 @@
       ]
     },
     {
-      "title": "Finanças pessoais",
+      "title": "Fitness Club",
       "startDate": "2023",
-      "description": "Study and practice applications that contribute to the management of expenses for a person or even a family group.",
+      "description": "Our academy is one of the most renowned and complete on the market. We offer a wide range of fitness classes and activities, from weight training and gymnastics to team sports and martial arts. Our team of instructors is highly qualified and always up to date with the latest trends in fitness and wellness. In addition, we have state-of-the-art equipment and impeccable infrastructure, providing a pleasant and safe environment for our students. If you are looking for a quality gym committed to your health and physical conditioning, come and visit our gym.",
       "images": [
-        "images/portfolio/pf/imgw.png",
-        "images/portfolio/pf/imgs.png"
+        "images/portfolio/acade/acade_1.png",
+        "images/portfolio/acade/acade_2.png",
+        "images/portfolio/acade/acade_3.png"
       ],
-      "url": "https://react-my-finances.vercel.app/",
+      "url": "https://gyn-site.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "E-Commerce-React",
+      "startDate": "2024",
+      "description": "A simple and quick system for listing products in a store, where the user can add them to their cart, edit, remove them and check-in.",
+      "images": [
+        "images/portfolio/comerce/comerce1.png",
+        "images/portfolio/comerce/comerce2.png",
+        "images/portfolio/comerce/comerce3.png"
+      ],
+      "url": "https://e-commerce-react-vite-2.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-tailwindcss-original",
+          "name": "TailwindCSS"
+        }
+      ]
+    },
+    {
+      "title": "Facilis imóveis",
+      "startDate": "2023",
+      "description": "Welcome to the website of our real estate sales company! Founded by one of the most renowned entrepreneurs in the real estate sector, we are committed to excellence in every step of the property sale. Our team is made up of highly qualified professionals, who offer a personalized service focused on the needs of each client. With a wide variety of properties in our portfolio, including houses, apartments, land and commercial properties, we have the perfect solution for anyone looking to buy or sell a property with confidence and security. Come and meet our company and find out how we can help you realize your dream of owning your own property.",
+      "images": [
+        "images/portfolio/faci/faci_1.png",
+        "images/portfolio/faci/faci_2.png",
+        "images/portfolio/faci/faci_3.png",
+        "images/portfolio/faci/faci_4.png"
+      ],
+      "url": "https://facilisimoveis.com.br/properties",
       "technologies": [
         {
           "class": "devicon-react-plain",
@@ -103,11 +176,34 @@
         {
           "class": "devicon-typescript-plain",
           "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nextjs-original",
+          "name": "NextJS 13"
         }
       ]
     }
   ],
   "experience": [
+    {
+      "company": "Self-employed",
+      "title": "Freelancer Developer",
+      "years": "02.2020",
+      "mainTech": [
+        "ReactJS",
+        "Typescript"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Styled-components",
+        "Git",
+        "CSS",
+        "Sprints",
+        "Clean-Code",
+        "CSR"
+      ]
+    },
     {
       "company": "Clicksoft",
       "title": "Trainee Front-End Developer",
@@ -121,7 +217,13 @@
         "Typescript",
         "Styled-components",
         "Git",
-        "Bitbucket"
+        "Bitbucket",
+        "Sprints",
+        "Clean-Code",
+        "CSR",
+        "PWA",
+        "SPA",
+        "JWT"
       ]
     },
     {
@@ -140,7 +242,14 @@
         "Git",
         "Bitbucket",
         "PostgreSQL",
-        "NodeJS"
+        "NodeJS",
+        "Sprints",
+        "Clean-Code",
+        "CSR",
+        "SSR",
+        "PWA",
+        "SPA",
+        "JWT"
       ]
     }
   ]

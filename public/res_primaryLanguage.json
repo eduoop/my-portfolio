@@ -1,63 +1,84 @@
 {
   "basic_info": {
     "description_header": "Opa",
-    "description": "Me chamo Eduardo. Tenho 18 anos e busco uma posição desafiadora como desenvolvedor de software, onde possa aplicar minhas habilidades em programação e solução de problemas para ajudar a criar produtos inovadores e de alta qualidade. Meu objetivo é trabalhar em uma equipe colaborativa e dinâmica, onde possa continuar a aprender e crescer profissionalmente, enquanto contribuo para o sucesso da empresa.",
+    "description": "Me chamo Eduardo Meneses, tenho 19 anos e á quatro anos meu interesse pela programação tem sido uma jornada empolgante. Atualmente, desempenho o papel de Fullstack Júnior na Clicksoft, onde desenvolvi habilidades sólidas em linguagens como Javascript, Typescript e NodeJS, e em frameworks como NodeJS, ReactJS e Next. Com experiência na resolução de bugs, criação de sites e API's, meu compromisso com a resolução proativa de problemas é evidente. Estou constantemente empenhado em aprender e crescer profissionalmente. Busco uma oportunidade desafiadora como desenvolvedor de software, ansioso para aplicar minhas habilidades na criação de produtos inovadores e de alta qualidade, enquanto contribuo dinamicamente para uma equipe colaborativa.",
     "section_name": {
       "about": "Sobre mim",
-      "projects": "Projetos",
+      "projects": "Projetos em Destaque",
       "skills": "Habilidades",
       "experience": "Experiência"
     }
   },
   "projects": [
     {
-      "title": "Fitness Club",
-      "startDate": "2023",
-      "description": "A nossa academia é uma das mais renomadas e completas do mercado. Oferecemos uma ampla variedade de aulas e atividades físicas, desde musculação e ginástica até esportes de equipe e artes marciais. Nossa equipe de instrutores é altamente qualificada e está sempre atualizada com as últimas tendências em fitness e bem-estar. Além disso, contamos com equipamentos de última geração e uma infraestrutura impecável, proporcionando um ambiente agradável e seguro para nossos alunos. Se você está em busca de uma academia de qualidade e comprometida com a sua saúde e condicionamento físico, venha conhecer a nossa academia.",
+      "title": "Musfy",
+      "startDate": "2024",
+      "description": "Um sistema de upload e reprodução de músicas, onde os usuários podem fazer upload de músicas e escutar músicas upadas por outros usuários de forma simples e específica.",
       "images": [
-        "images/portfolio/acade/acade_1.png",
-        "images/portfolio/acade/acade_2.png",
-        "images/portfolio/acade/acade_3.png"
+        "images/portfolio/musfy/musfy1.png",
+        "images/portfolio/musfy/musfy2.png",
+        "images/portfolio/musfy/musfy3.png",
+        "images/portfolio/musfy/musfy4.png"
       ],
-      "url": "https://gyn-site.vercel.app/",
+      "url": "https://musfy.vercel.app/",
       "technologies": [
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML5"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS3"
-        }
-      ]
-    },
-    {
-      "title": "Facilis imóveis",
-      "startDate": "2023",
-      "description": "Bem-vindo ao site da nossa empresa de venda de imóveis! Fundada por um dos mais renomados empresários do setor imobiliário, temos um compromisso com a excelência em cada etapa da venda de imóveis. Nossa equipe é formada por profissionais altamente qualificados, que oferecem um atendimento personalizado e focado nas necessidades de cada cliente. Com uma ampla variedade de imóveis em nosso portfólio, incluindo casas, apartamentos, terrenos e imóveis comerciais, temos a solução perfeita para quem busca comprar ou vender um imóvel com confiança e segurança. Venha conhecer a nossa empresa e saiba como podemos ajudá-lo a realizar o seu sonho de ter um imóvel próprio.",
-      "images": [
-        "images/portfolio/faci/faci_1.png",
-        "images/portfolio/faci/faci_2.png",
-        "images/portfolio/faci/faci_3.png",
-        "images/portfolio/faci/faci_4.png"
-      ],
-      "url": "https://facilisimoveis.com.br/properties",
-      "technologies": [
-        {
-          "class": "devicon-react-plain",
-          "name": "React"
-        },
         {
           "class": "devicon-typescript-plain",
           "name": "TypeScript"
         },
         {
-          "class": "devicon-nextjs-original",
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nextjs-plain",
           "name": "NextJS 13"
+        },
+        {
+          "class": "devicon-prisma-original",
+          "name": "Prisma"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "Prisma"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS S3"
+        }
+      ]
+    },
+    {
+      "title": "Barber",
+      "startDate": "2024",
+      "description": "Uma plataforma para facilitar o agendamento de serviços em barbearias! Utilizando tecnologias de ponta, construí uma experiência eficiente e moderna para usuários que desejam agendar cortes de cabelo e cuidados pessoais. ",
+      "images": [
+        "images/portfolio/barber/barber1.png",
+        "images/portfolio/barber/barber2.png",
+        "images/portfolio/barber/barber3.png",
+        "images/portfolio/barber/barber4.png"
+      ],
+      "url": "https://barbershop-bookings.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "NextJS 13"
+        },
+        {
+          "class": "devicon-prisma-original",
+          "name": "Prisma"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "Prisma"
         }
       ]
     },
@@ -87,14 +108,66 @@
       ]
     },
     {
-      "title": "Finanças pessoais",
+      "title": "Fitness Club",
       "startDate": "2023",
-      "description": "Estude e prátique aplicações que contribuem para a gestão dos gastos de uma pessoa ou até mesmo de um grupo familiar.",
+      "description": "A nossa academia é uma das mais renomadas e completas do mercado. Oferecemos uma ampla variedade de aulas e atividades físicas, desde musculação e ginástica até esportes de equipe e artes marciais. Nossa equipe de instrutores é altamente qualificada e está sempre atualizada com as últimas tendências em fitness e bem-estar. Além disso, contamos com equipamentos de última geração e uma infraestrutura impecável, proporcionando um ambiente agradável e seguro para nossos alunos. Se você está em busca de uma academia de qualidade e comprometida com a sua saúde e condicionamento físico, venha conhecer a nossa academia.",
       "images": [
-        "images/portfolio/pf/imgw.png",
-        "images/portfolio/pf/imgs.png"
+        "images/portfolio/acade/acade_1.png",
+        "images/portfolio/acade/acade_2.png",
+        "images/portfolio/acade/acade_3.png"
       ],
-      "url": "https://react-my-finances.vercel.app/",
+      "url": "https://gyn-site.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "E-Commerce-React",
+      "startDate": "2024",
+      "description": "Um site simples e rápido para listar produtos de uma loja, onde o usuário consegue colocar no seu carrinho, editar, remove-los e fazer check-in.",
+      "images": [
+        "images/portfolio/comerce/comerce1.png",
+        "images/portfolio/comerce/comerce2.png",
+        "images/portfolio/comerce/comerce3.png"
+      ],
+      "url": "https://e-commerce-react-vite-2.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-tailwindcss-original",
+          "name": "TailwindCSS"
+        }
+      ]
+    },
+    {
+      "title": "Facilis imóveis",
+      "startDate": "2023",
+      "description": "Bem-vindo ao site da nossa empresa de venda de imóveis! Fundada por um dos mais renomados empresários do setor imobiliário, temos um compromisso com a excelência em cada etapa da venda de imóveis. Nossa equipe é formada por profissionais altamente qualificados, que oferecem um atendimento personalizado e focado nas necessidades de cada cliente. Com uma ampla variedade de imóveis em nosso portfólio, incluindo casas, apartamentos, terrenos e imóveis comerciais, temos a solução perfeita para quem busca comprar ou vender um imóvel com confiança e segurança. Venha conhecer a nossa empresa e saiba como podemos ajudá-lo a realizar o seu sonho de ter um imóvel próprio.",
+      "images": [
+        "images/portfolio/faci/faci_1.png",
+        "images/portfolio/faci/faci_2.png",
+        "images/portfolio/faci/faci_3.png",
+        "images/portfolio/faci/faci_4.png"
+      ],
+      "url": "https://facilisimoveis.com.br/properties",
       "technologies": [
         {
           "class": "devicon-react-plain",
@@ -103,17 +176,41 @@
         {
           "class": "devicon-typescript-plain",
           "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nextjs-original",
+          "name": "NextJS 13"
         }
       ]
     }
   ],
   "experience": [
     {
+      "company": "Autônomo",
+      "title": "Freelancer",
+      "years": "02.2020",
+      "mainTech": [
+        "ReactJS",
+        "Typescript"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Styled-components",
+        "Git",
+        "CSS",
+        "Sprints",
+        "Clean-Code",
+        "CSR"
+      ]
+    },
+    {
       "company": "Clicksoft",
       "title": "Estagiário Front-End Developer",
       "years": "06.2022",
       "mainTech": [
-        "ReactJS"
+        "ReactJS",
+        "Typescript"
       ],
       "technologies": [
         "REST API",
@@ -121,7 +218,13 @@
         "Typescript",
         "Styled-components",
         "Git",
-        "Bitbucket"
+        "Bitbucket",
+        "Sprints",
+        "Clean-Code",
+        "CSR",
+        "PWA",
+        "SPA",
+        "JWT"
       ]
     },
     {
@@ -130,6 +233,7 @@
       "years": "03.2023 - atual",
       "mainTech": [
         "ReactJS",
+        "NextJS",
         "AdonisJS"
       ],
       "technologies": [
@@ -140,7 +244,14 @@
         "Git",
         "Bitbucket",
         "PostgreSQL",
-        "NodeJS"
+        "NodeJS",
+        "Sprints",
+        "Clean-Code",
+        "CSR",
+        "SSR",
+        "PWA",
+        "SPA",
+        "JWT"
       ]
     }
   ]
