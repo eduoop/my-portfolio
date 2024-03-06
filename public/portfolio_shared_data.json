@@ -105,6 +105,21 @@
         "name": "Bitbucket",
         "class": "devicon-bitbucket-original",
         "level": "80"
+      },
+      {
+        "name": "Photoshop",
+        "class": "devicon-photoshop-plain",
+        "level": "80"
+      },
+      {
+        "name": "Premiere",
+        "class": "devicon-premierepro-plain",
+        "level": "80"
+      },
+      {
+        "name": "Figma",
+        "class": "devicon-figma-plain",
+        "level": "80"
       }
     ]
   }
